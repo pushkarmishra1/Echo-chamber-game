@@ -1,0 +1,6 @@
+{
+  "name": "EchoChamber: Horror Puzzle",
+  "description": "An immersive sonar-based 2D horror puzzle game where you navigate absolute pitch blackness using expanding sound pulses to reveal hidden walls and locate the exit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

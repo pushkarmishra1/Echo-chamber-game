@@ -5,7 +5,7 @@
 
 # 🧩 Echo Chamber Puzzle
 
-An atmospheric, full-stack puzzle game where survival depends on your ability to "see" with sound. Navigate through pitch-black levels using sonar pulses to map out obstacles and escape the void.
+Echo Chamber Puzzle: An immersive full-stack web game featuring a unique sonar-based navigation mechanic. Built to challenge player perception, it integrates a React-based frontend with a robust Node.js/Express backend and MongoDB for real-time leaderboard persistence. Developed with a focus on clean architecture, real-time rendering, and solving complex production-level deployment challenges.
 
 ---
 
